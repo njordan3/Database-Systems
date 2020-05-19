@@ -1,0 +1,61 @@
+EmployeeID,Name,SSN,Address,Birth_date,Sex,ManagerID
+1,Wes Bellefonte,101-04-3219,121 Bunker Hill Terrace,1993-06-07,Male,6
+2,Pincas Dener,114-57-4843,5679 Bowman Trail,1994-04-04,Male,6
+3,Micheil Dauncey,636-22-5036,272 Comanche Trail,1978-06-20,Male,6
+4,Mattie Dykas,515-44-3923,7874 Armistice Crossing,1978-12-03,Female,6
+5,Cristiano Dundredge,521-42-7693,99532 Comanche Place,1998-11-11,Male,6
+6,Cher Wicklen,763-30-4259,3288 Carberry Terrace,2002-12-12,Female,6
+7,Marillin Eacott,657-54-3501,861 David Center,1984-08-10,Female,12
+8,Cece Andryushchenko,517-83-9439,64 Acker Drive,1991-12-05,Male,12
+9,Lanny Bullough,418-29-6575,11673 Derek Street,1987-11-15,Female,12
+10,Ermengarde Meaden,447-33-4832,88827 Miller Avenue,1971-11-17,Female,12
+11,Simonette Titcumb,753-95-1284,3 Farwell Junction,1992-04-26,Female,12
+12,Brietta Flaxon,465-94-8601,6683 Hoard Place,1979-06-05,Female,12
+13,Paton Tull,278-40-6036,48 Esker Terrace,1980-05-17,Male,18
+14,Kimberly Connor,240-58-4463,161 Hudson Junction,1993-01-22,Female,18
+15,Madeleine Blackie,618-37-0990,92983 Maryland Pass,1998-05-26,Female,18
+16,Orelia Netley,197-49-5504,88 Red Cloud Street,1982-07-01,Female,18
+17,Emylee Ramlot,318-74-6274,1429 Novick Circle,1994-06-12,Female,18
+18,Alberik Tresvina,811-73-3993,342 Rockefeller Junction,1991-09-23,Male,18
+19,Cacilie Kik,161-14-8201,0 Homewood Circle,2001-04-01,Female,24
+20,Iormina Mowsdill,326-66-1818,6431 Elka Terrace,1995-12-05,Female,24
+21,Linzy Heindrick,577-46-8940,3 Norway Maple Terrace,1993-09-11,Female,24
+22,Padraig Swire,586-46-2769,492 Pierstorff Pass,1994-11-14,Male,24
+23,Daphna Drewes,347-30-8340,744 Namekagon Hill,1972-01-30,Female,24
+24,Verile Cartmael,221-92-3643,79056 Manley Place,1978-08-31,Female,24
+25,Harrison McCallister,266-32-4511,3 Karstens Junction,1997-07-07,Male,30
+26,Pincus Belvard,460-76-1335,1 Mccormick Point,1995-05-21,Male,30
+27,Glenn Tomley,555-44-6072,71 Quincy Drive,2002-01-07,Female,30
+28,Carolyn Preddle,144-91-6959,32685 Maple Wood Street,1994-04-01,Female,30
+29,Emmalynne Matisse,809-96-8302,0 East Plaza,1997-07-21,Female,30
+30,Andrus Gidman,871-10-6721,2 Crest Line Avenue,1992-01-14,Male,30
+31,Averyl Jaulmes,795-37-0506,0 Arapahoe Parkway,2002-05-12,Female,36
+32,Chadwick Armfirld,843-24-3175,2690 Barby Place,1991-08-07,Male,36
+33,Jolynn Adamik,463-82-3180,6476 Forest Parkway,1982-05-30,Female,36
+34,Inness Dachs,476-21-2170,8939 Cottonwood Trail,1980-03-26,Male,36
+35,Nolana Amis,818-21-6265,7 Sunbrook Road,2002-06-03,Female,36
+36,Emalia Ney,693-95-8455,772 Rusk Plaza,1999-07-23,Female,36
+37,Willie Roncelli,779-98-5593,2 Badeau Terrace,2002-10-04,Male,42
+38,Happy Dimond,255-64-3641,91 Grim Avenue,1984-11-20,Female,42
+39,Keelby Osmund,732-62-0145,3665 Troy Terrace,1990-12-11,Male,42
+40,Kelsey Whimp,423-98-4176,7319 Superior Street,2000-05-25,Male,42
+41,Berty Shardlow,708-44-8072,15870 Holy Cross Pass,2001-04-04,Male,42
+42,Julieta Livingstone,584-01-1325,17356 Melody Terrace,1982-05-14,Female,42
+43,Erwin Brumbie,521-85-9916,8184 Golf View Way,1976-06-08,Male,48
+44,Cam Bernetti,569-01-2596,8521 Bunting Way,1982-05-05,Male,48
+45,Nickolai Foro,302-60-9576,2 Debs Place,1976-09-09,Male,48
+46,Beaufort Lorinez,209-58-6656,682 Barnett Street,1989-12-28,Male,48
+47,Frasier De Angelis,553-52-1866,110 Ridge Oak Junction,1990-04-21,Male,48
+48,Alyson Vidyapin,193-86-5361,2 Northridge Court,1985-05-21,Female,48
+49,Phyllys Roddam,443-26-8741,993 Pankratz Plaza,2001-11-02,Female,54
+50,Amata Yurinov,477-21-5021,47 Upham Point,1998-12-27,Female,54
+51,Lemmie Ruslinge,537-80-3643,8391 Ilene Parkway,1996-02-09,Male,54
+52,Tessa Tewkesberry,242-20-8577,560 Waywood Pass,1984-02-08,Female,54
+53,Wadsworth Kelshaw,736-46-2231,5 Eagle Crest Point,1989-02-21,Male,54
+54,Dagny Selbach,289-35-2535,9 Ohio Lane,1996-12-09,Male,54
+55,Bliss Klais,108-56-2856,7 Reindahl Lane,1985-01-14,Female,60
+56,Vincenty Thirst,445-31-4658,636 Shopko Alley,1978-12-26,Male,60
+57,Hermy Melmoth,715-59-5415,593 Waywood Crossing,1972-07-25,Male,60
+58,Benn Deas,323-28-7173,89 Old Shore Circle,1996-06-30,Male,60
+59,Brade Canet,309-40-9171,7 Dayton Court,1972-08-01,Male,60
+60,Llywellyn Walker,214-81-1426,70 Burrows Road,2002-02-08,Male,60

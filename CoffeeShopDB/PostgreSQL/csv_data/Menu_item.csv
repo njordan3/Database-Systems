@@ -1,0 +1,31 @@
+ProductID,Product_name,Size,Store_price
+1,Coffee,Small,0.40
+2,Coffee,Medium,0.50
+3,Coffee,Large,0.60
+4,Tea,Small,0.40
+5,Tea,Medium,0.50
+6,Tea,Large,0.60
+7,Decaf,Small,0.50
+8,Decaf,Medium,0.60
+9,Decaf,Large,0.70
+10,Espresso,Small,0.60
+11,Espresso,Medium,0.75
+12,Espresso,Large,0.90
+13,Hot Cocoa,Small,0.30
+14,Hot Cocoa,Medium,0.40
+15,Hot Cocoa,Large,0.50
+16,Americano,Small,0.45
+17,Americano,Medium,0.60
+18,Americano,Large,0.75
+19,French Press,Small,0.45
+20,French Press,Medium,0.60
+21,French Press,Large,0.75
+22,Frappe,Small,0.50
+23,Frappe,Medium,0.75
+24,Frappe,Large,1.00
+25,Cold Brew,Small,0.45
+26,Cold Brew,Medium,0.55
+27,Cold Brew,Large,0.65
+28,Turkish Coffee,Small,0.50
+29,Turkish Coffee,Medium,0.65
+30,Turkish Coffee,Large,0.80
